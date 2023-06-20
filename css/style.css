@@ -1,0 +1,12 @@
+/*
+    . = class selector 
+*/
+.s_up{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    padding: 6px;
+    background: red;
+    cursor: pointer;
+    display: none;
+}
